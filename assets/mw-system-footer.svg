@@ -1,8 +1,0 @@
-<svg width="1200" height="118" viewBox="0 0 1200 118" fill="none" xmlns="http://www.w3.org/2000/svg">
-<style>.mono{font-family:'Courier New',monospace}.signal{animation:pulse 2.4s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.signal{animation:none}}</style>
-<rect width="1200" height="118" rx="8" fill="#07090B"/>
-<path d="M38 34H1162M38 84H1162" stroke="#262D31"/>
-<circle class="signal" cx="54" cy="59" r="4" fill="#FF5A3D"/>
-<text x="70" y="64" class="mono" fill="#D5DBDE" font-size="13" letter-spacing="2">SYSTEM STATUS / OPERATIONAL</text>
-<text x="1160" y="64" text-anchor="end" class="mono" fill="#7E898F" font-size="12" letter-spacing="2">BUILDING FOR ENVIRONMENTS WHERE FAILURE MATTERS.</text>
-</svg>
